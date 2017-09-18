@@ -1,0 +1,373 @@
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\ProjectTryout.Android.dll.config
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\ProjectTryout.Android.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\ProjectTryout.Android.pdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\ProjectTryout.Android.apk
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\ProjectTryout.Android-Signed.apk
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Branch-Xamarin-Lib.Droid.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Branch-Xamarin-SDK.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Branch-Xamarin-SDK.Droid.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\PCLStorage.Abstractions.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\PCLStorage.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Geolocator.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Messaging.Abstractions.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Messaging.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Permissions.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\ProjectTryout.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\SQLite-net.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\ProjectTryout.pdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\PCLStorage.xml
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\PCLStorage.Abstractions.xml
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Geolocator.xml
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Messaging.pdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Messaging.xml
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Messaging.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Messaging.Abstractions.pdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Messaging.Abstractions.xml
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Messaging.Abstractions.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Permissions.pdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Permissions.xml
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\SQLite-net.xml
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\SQLite-net.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\ProjectTryout.Android.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\ProjectTryout.Android.dll
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\ProjectTryout.Android.pdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\bin\ProjectTryout.Android.apk
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\res\values\styles.xml
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\res\drawable\w.jpg
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\res\drawable\w_centered.xml
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\res\drawable\icon_w.png
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\R.cs.flag
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\uploadflags.txt
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\ProjectTryout.Android.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\mscorlib.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\ProjectTryout.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Core.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.IO.Compression.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Xml.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Plugin.Messaging.Abstractions.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Plugin.Messaging.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\ProjectTryout.Android.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\ProjectTryout.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\SQLite-net.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Pedro\Desktop\CheckersWithNor\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\ProjectTryout.Android.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\ProjectTryout.Android.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\ProjectTryout.Android.dll.config
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\ProjectTryout.Android.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\ProjectTryout.Android.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\ProjectTryout.Android.apk
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\ProjectTryout.Android-Signed.apk
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Akavache.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Akavache.Sqlite3.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Branch-Xamarin-Lib.Droid.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Branch-Xamarin-SDK.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Branch-Xamarin-SDK.Droid.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\ExifLib.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\FFImageLoading.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\FFImageLoading.Forms.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\FFImageLoading.Forms.Droid.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\FFImageLoading.Platform.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\PCLStorage.Abstractions.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\PCLStorage.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Battery.Abstractions.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Battery.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Connectivity.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Geolocator.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Messaging.Abstractions.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Messaging.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Permissions.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Settings.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\ProjectTryout.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Splat.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\SQLite-net.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\SQLitePCLRaw.batteries_e_sqlite3.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Reactive.Core.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Toasts.Forms.Plugin.Abstractions.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Toasts.Forms.Plugin.Droid.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\XLabs.Core.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\XLabs.Ioc.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\XLabs.Platform.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\XLabs.Platform.Droid.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\DLToolkit.Forms.Controls.FlowListView.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\ProjectTryout.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Akavache.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Akavache.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Akavache.Sqlite3.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Akavache.Sqlite3.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Akavache.Sqlite3.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\FFImageLoading.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\FFImageLoading.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\FFImageLoading.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\FFImageLoading.Forms.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\FFImageLoading.Forms.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\FFImageLoading.Forms.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\FFImageLoading.Forms.Droid.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\FFImageLoading.Forms.Droid.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\FFImageLoading.Forms.Droid.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\FFImageLoading.Platform.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\FFImageLoading.Platform.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\FFImageLoading.Platform.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\PCLStorage.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\PCLStorage.Abstractions.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Battery.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Battery.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Battery.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Battery.Abstractions.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Battery.Abstractions.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Connectivity.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Connectivity.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Connectivity.Abstractions.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Geolocator.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Messaging.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Messaging.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Messaging.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Messaging.Abstractions.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Messaging.Abstractions.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Messaging.Abstractions.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Permissions.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Permissions.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Settings.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Settings.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Settings.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Settings.Abstractions.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Settings.Abstractions.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Plugin.Settings.Abstractions.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Splat.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\SQLite-net.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\SQLite-net.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Reactive.Core.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Toasts.Forms.Plugin.Abstractions.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Toasts.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Toasts.Forms.Plugin.Droid.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Toasts.Forms.Plugin.Droid.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\XLabs.Core.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\XLabs.Ioc.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\XLabs.Platform.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\XLabs.Platform.Droid.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\DLToolkit.Forms.Controls.FlowListView.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\ProjectTryout.Android.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\ProjectTryout.Android.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\bin\ProjectTryout.Android.apk
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\res\values\styles.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\res\drawable\w.jpg
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\res\drawable\w_centered.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\res\drawable\icon_w.png
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\res\values\strings.xml
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\res\drawable\gear.png
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\R.cs.flag
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\uploadflags.txt
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\ProjectTryout.Android.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\ProjectTryout.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Mono.Android.Export.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\mscorlib.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Core.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.IO.Compression.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Xml.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Akavache.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Akavache.Sqlite3.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\FFImageLoading.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\FFImageLoading.Forms.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\FFImageLoading.Forms.Droid.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\FFImageLoading.Platform.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Mono.Android.Export.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Plugin.Battery.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Plugin.Connectivity.Abstractions.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Plugin.Messaging.Abstractions.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Plugin.Messaging.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Plugin.Settings.Abstractions.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Plugin.Settings.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\ProjectTryout.Android.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\ProjectTryout.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Splat.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\SQLite-net.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Toasts.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Toasts.Forms.Plugin.Droid.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\ModernHttpClient.dll
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\ModernHttpClient.pdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\obj\Debug\ProjectTryout.Android.dll.mdb
+C:\Users\Pedro\Desktop\SAFE SPACE\ProjectTryout\ProjectTryout\ProjectTryout.Android\bin\Debug\ProjectTryout.Android.dll.mdb

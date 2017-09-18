@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectTryout.Views.MedicalHistoryPage"
+             Title="Informação médica"
+             Padding="0,20,0,0">
+    <ContentPage.Content>
+        <StackLayout Padding="5,10">
+            <Label TextColor="Red" FontSize = "30" Text="Tipo de sangue"/>
+            <Label TextColor="Black" FontSize = "30" Text="{Binding Action.BloodType}"/>
+            <Label TextColor="Red" FontSize = "30" Text="Alergias"/>
+            <Label TextColor="Black" FontSize = "30" Text="{Binding Action.Allergies}"/>
+            <Label TextColor="Red" FontSize = "30" Text="Historial médico"/>
+            <Label TextColor="Black" FontSize = "30" Text="{Binding Action.MedicalHistory}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

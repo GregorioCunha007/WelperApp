@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:flv="clr-namespace:DLToolkit.Forms.Controls;assembly=DLToolkit.Forms.Controls.FlowListView"
+             xmlns:forms="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             x:Class="ProjectTryout.Views.CardsExhibitPage"
+             Padding="0,20,0,0"
+             BackgroundColor="Black">
+    
+    <Grid>
+        <ScrollView>
+            <flv:FlowListView x:Name="Board" HasUnevenRows="True"
+                      BackgroundColor="Black"
+                      FlowColumnCount="2"
+                      FlowItemTappedCommand="{Binding ExecuteActionCommand}"
+                      FlowColumnMinWidth="110"
+                      IsPullToRefreshEnabled="True"
+                      IsRefreshing="{Binding IsRefreshing}"
+                      RefreshCommand="{Binding RefreshViewCommand}"
+                      FlowItemsSource="{Binding Cards}">
+
+                <flv:FlowListView.FlowColumnTemplate>
+                    <DataTemplate>
+                        <Grid Padding="5">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <forms:CachedImage HeightRequest="150" Aspect="AspectFill"
+							DownsampleHeight="150" DownsampleUseDipUnits="false"
+							Source="{Binding Representation}"/>
+                        </Grid>
+                    </DataTemplate>
+                </flv:FlowListView.FlowColumnTemplate>
+            </flv:FlowListView>
+        </ScrollView>
+        <ActivityIndicator IsRunning="{Binding IsLoading}" IsVisible="{Binding IsLoading}" 
+            VerticalOptions="Center" HorizontalOptions="Center" Opacity="0.5"/>
+    </Grid>
+</ContentPage>

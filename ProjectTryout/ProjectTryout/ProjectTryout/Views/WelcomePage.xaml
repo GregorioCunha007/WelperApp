@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectTryout.Views.WelcomePage"
+             Title="Welcome">
+
+    <StackLayout VerticalOptions="Center" IsVisible="{Binding IsLoaded, Mode=OneWayToSource}">
+        <Frame>
+            <Label Text="Welcome"
+             Font="Bold, Large"
+             HorizontalOptions="Center"
+             TextColor="Red" />
+        </Frame>
+        <ActivityIndicator IsRunning="{Binding IsBusy.IsNotCompleted}" 
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center"
+                       Color="Blue">
+            
+        </ActivityIndicator>
+    </StackLayout> 
+
+</ContentPage>

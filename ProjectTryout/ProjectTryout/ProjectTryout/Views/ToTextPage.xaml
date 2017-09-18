@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectTryout.Views.ToTextPage"
+             Padding="0,20,0,0">
+    <ContentPage.Content>
+        <StackLayout Padding="5,10">
+            <Label TextColor="Black" FontSize = "40" Text="{Binding Action.Message}"/>
+        </StackLayout>
+        </ContentPage.Content>
+</ContentPage>

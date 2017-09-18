@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectTryout.Views.FormPage"
+             Title="Form"
+             Padding="0,20,0,0">
+    <StackLayout Padding="10" BackgroundColor="White">
+        <Label Text="Bem vindo à Welper app" FontSize="20" TextColor="Red"/>
+        <Label Text="Insira as suas credencias previamente criadas" FontSize="10"/>
+        <Entry Text="{Binding Id}" Placeholder="User Id" FontSize="10"></Entry>
+        <Entry Text="{Binding Password}" Placeholder="Password" IsPassword="True" FontSize="10"/>
+        <Picker Title="Limite de aviso de pouca bateria" SelectedIndex="{Binding BatteryWarningPercentageThreshold}">
+            <Picker.Items>
+                <x:String>25 %</x:String>
+                <x:String>30 %</x:String>
+                <x:String>35 %</x:String>
+                <x:String>40 %</x:String>
+            </Picker.Items>
+        </Picker>
+        <Button Text="Finish" Command="{Binding FinishCommand}" FontSize="10"/>
+    </StackLayout>
+
+</ContentPage>
